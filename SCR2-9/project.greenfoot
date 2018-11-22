@@ -1,7 +1,7 @@
 #Greenfoot project file
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
->>>>>>>=df3df431260dfcef2c9cf58d753d90811f48845a
+>>>>>>>=ea36cf9bb6af6e1aa0cd6c0c56e9a1b26276255d
 class.Kento.image=girl1.png
 class.Kento.superclass=greenfoot.Actor
 class.MyWorld.image=bathroom-tile.jpg
@@ -14,8 +14,8 @@ class.sitenzin.image=wombat.png
 class.sitenzin.superclass=greenfoot.Actor
 mainWindow.height=546
 mainWindow.width=871
-mainWindow.x=970
-mainWindow.y=330
+mainWindow.x=419
+mainWindow.y=237
 package.numDependencies=0
 package.numTargets=5
 project.charset=UTF-8
@@ -48,7 +48,7 @@ target2.y=10
 target3.editor.height=700
 target3.editor.width=900
 target3.editor.x=105
-target3.editor.y=52
+target3.editor.y=72
 target3.height=50
 target3.name=doraemon
 target3.naviview.expanded=true

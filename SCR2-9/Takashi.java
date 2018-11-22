@@ -17,7 +17,12 @@ public class Takashi extends Actor
        if(Greenfoot.isKeyDown("left")){
         setRotation(180);
         move(4);
-        // Add your action code here.
+    }
+    
+        if( Greenfoot.isKeyDown( "up" ) ){
+        setRotation(270);
+        move(1);
+        
     }    
 }
 }
