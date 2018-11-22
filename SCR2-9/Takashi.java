@@ -13,8 +13,13 @@ public class Takashi extends Actor
      * the 'Act' or 'Run' button gets pressed in the environment.
      */
     public void act() 
-    { 
-        if( Greenfoot.isKeyDown( "up" ) ){
+
+    {
+        if(Greenfoot.isKeyDown("right")){
+           setRotation(0); 
+           move(4);
+        }// Add your action code here. 
+        else if( Greenfoot.isKeyDown( "up" ) ){
         setRotation(270);
         move(1);
         }
@@ -23,5 +28,6 @@ public class Takashi extends Actor
             setRotation(90);
             move(4);
         }
+
     }    
 }
